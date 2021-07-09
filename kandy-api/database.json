@@ -1,0 +1,54 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "John"
+        }
+    ],
+
+    "locations": [
+        {
+            "id": 1,
+            "name": "Indigo Hotel",
+            "Address": "9000 Grove Ave",
+            "squareFootage": "2000 square feet",
+            "handicapAccessible": "Yes"
+        },
+
+        {
+            "id": 2,
+            "name": "Highway Mountain",
+            "Address": "8000 Gray Street",
+            "squareFootage": "1900 square feet",
+            "handicapAccessible": "Yes"
+        },
+
+        {
+            "id": 3,
+            "Address": "7000 Highway Court",
+            "squareFootage": "1800 square feet",
+            "handicapAccessible": "No"
+        }
+    ],
+
+    "employees": [
+        {
+            "id": 1,
+            "name": "Brad"
+        }
+    ],
+
+    "productTypes": [
+        {
+            "id": 1,
+            "name": "Ryan"
+        }
+    ],
+
+    "customers": [
+        {
+            "id": 1,
+            "name": "Tyler"
+        }
+    ]
+}
